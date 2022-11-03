@@ -11,4 +11,4 @@
 - [Statistics ***(10/10)***](https://github.com/Kurokami47/Assignments-Ineuron/tree/main/Statistics%20Assignment)
 
 ### 3. Machine Learning
-- [Machine Learning ***(18/24)***](https://github.com/Kurokami47/Assignments-Ineuron/tree/main/Machine%20Learning%20Assignment)
+- [Machine Learning ***(24/24)***](https://github.com/Kurokami47/Assignments-Ineuron/tree/main/Machine%20Learning%20Assignment)
